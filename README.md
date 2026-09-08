@@ -13,6 +13,7 @@
   <a href="https://github.com/sardarfahadali18-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00c9ff?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Islamabad-Pakistan-0f9d58?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 </p>
 
@@ -123,10 +124,32 @@ fun_fact: "I break things on purpose, just to learn how to fix them."
 
 <br/>
 
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Add_Your-Certification-00c9ff?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Add_Your-Badge-4285F4?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Add_Your-Achievement-yellow?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</div>
+
+> ✏️ Yahan apne asal certificates/courses/badges ki list daalo, jaise:
+> - 🏅 [Course/Certificate Name](link) — Issuing Platform
+> - 🏅 [Course/Certificate Name](link) — Issuing Platform
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sardarfahadali18-wq/sardarfahadali18-wq/output/github-contribution-grid-snake-dark.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sardarfahadali18-wq/sardarfahadali18-wq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sardarfahadali18-wq/sardarfahadali18-wq/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sardarfahadali18-wq/sardarfahadali18-wq/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 <br/>
